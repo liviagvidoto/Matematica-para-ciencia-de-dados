@@ -1,1 +1,1 @@
-# Mateatica para ciencia de dados
+# Matemática para ciência de dados
