@@ -1,1 +1,1 @@
-Utilizando Matemática e Estatística para ciência de dados
+Utilizando Matemática e Estatística para Ciência de dados
